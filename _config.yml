@@ -37,7 +37,7 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwh
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo_multicollection
+metadata: demo_multicollection_small
 # contentdm collection name, matches collection ID used by CDM
 cdm-collection-id: psychiana
 # CONTENTdm server url
@@ -45,7 +45,7 @@ cdm-url: https://digital.lib.uidaho.edu
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'demo_multicollection'
+  - data: 'demo_multicollection_small'
     template: 'items'
     name: 'objectid'
     dir: 'items'
