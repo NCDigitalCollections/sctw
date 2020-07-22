@@ -37,7 +37,7 @@ about-featured-image: coll045
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
 browse-buttons: true # true / false, adds previous/next arrows to items, but increases build time
-pdf-embed: true # true / false, if true, pdf is embedded into item page, if false only thumb is displayed
+pdf-embed: false # true / false, if true, pdf is embedded into item page, if false only thumb is displayed
 
 ##########
 # SUBJECTS PAGE
