@@ -1,0 +1,762 @@
+{
+    "title": {
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll19/771/full/max/0/default.jpg",
+          "caption": "Photograph: Tiny Broadwick lands in Griffith Park, Las Angeles Ca.",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "text": {
+          "headline": "Collection Builder CDM Skin Timeline",
+          "text": "Demo collection using three CONTENTdm collections metadata"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll9/id/549079",
+          "caption": "North Carolina College for Women in pictures",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll000.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1920"
+        },
+        "text": {
+          "headline": "North Carolina College for Women in pictures",
+          "text": "1920"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll9/id/549116",
+          "caption": "Pictorial review to acquaint the people of North Carolina more fully with their College for Women at Greensboro",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll001.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1932"
+        },
+        "text": {
+          "headline": "Pictorial review to acquaint the people of North Carolina more fully with their College for Women at Greensboro",
+          "text": "1932"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll9/id/616805",
+          "caption": "Women and the law : a handbook for North Carolina",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll002.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1975"
+        },
+        "text": {
+          "headline": "Women and the law : a handbook for North Carolina",
+          "text": "1975"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/20818",
+          "caption": "Women of distinction : remarkable in works and invincible in character",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll003.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1893"
+        },
+        "text": {
+          "headline": "Women of distinction : remarkable in works and invincible in character",
+          "text": "1893"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/40609",
+          "caption": "Flora MacDonald : a history and a message",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll004.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1916"
+        },
+        "text": {
+          "headline": "Flora MacDonald : a history and a message",
+          "text": "1916"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/3372",
+          "caption": "Busy North Carolina women",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll005.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1931"
+        },
+        "text": {
+          "headline": "Busy North Carolina women",
+          "text": "A 1931 publication featuring short biographical sketches of about 50 notable North Carolina women, including the wife of governor Max Gardner, civic leaders, politicians, clergy, artists, etc. Author's autograph on fly-leaf."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll9/id/659811",
+          "caption": "Admission of women to the University",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll006.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1923"
+        },
+        "text": {
+          "headline": "Admission of women to the University",
+          "text": "1923"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll18/88709/full/pct:40/0/default.jpg",
+          "caption": "Our State",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll007.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "",
+          "year": "2007"
+        },
+        "text": {
+          "headline": "Our State",
+          "text": "Volume 74, number 10 (March 2007)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll18/18303/full/pct:40/0/default.jpg",
+          "caption": "State",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll008.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "01",
+          "year": "1944"
+        },
+        "text": {
+          "headline": "State",
+          "text": "Volume 11, number 31 (January 1, 1944)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll18/77742/full/pct:40/0/default.jpg",
+          "caption": "Our State",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll009.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "09",
+          "day": "",
+          "year": "2003"
+        },
+        "text": {
+          "headline": "Our State",
+          "text": "Volume 71, number 4 (September 2003)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll22/id/307211",
+          "caption": "Women of the century: a commemorative program of the Distinguished Women of North Carolina Awards Banquet",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll010.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "2000"
+        },
+        "text": {
+          "headline": "Women of the century: a commemorative program of the Distinguished Women of North Carolina Awards Banquet",
+          "text": "2000"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/18767",
+          "caption": "Equal suffrage : address",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll012.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1914"
+        },
+        "text": {
+          "headline": "Equal suffrage : address",
+          "text": "1914"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/40568",
+          "caption": "Mary Mendenhall Hobbs : a lecture delivered at Guilford College, on Founders Day, 1955",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll013.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1955"
+        },
+        "text": {
+          "headline": "Mary Mendenhall Hobbs : a lecture delivered at Guilford College, on Founders Day, 1955",
+          "text": "1955"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/40502",
+          "caption": "Tributes to Dr. Elizabeth Delia Dixon Carroll, the Meredith auditorium, November 4, 1934",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll014.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1934"
+        },
+        "text": {
+          "headline": "Tributes to Dr. Elizabeth Delia Dixon Carroll, the Meredith auditorium, November 4, 1934",
+          "text": "1934"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39661",
+          "caption": "Everywoman's magazine [1916 : October, v.1 : n.1]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll015.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "10",
+          "day": "",
+          "year": "1916"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1916 : October, v.1 : n.1]",
+          "text": "Volume 1, number 1 (October 1916)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39541",
+          "caption": "Everywoman's magazine [1916 : December, v.1 : n.2]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll016.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "",
+          "year": "1916"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1916 : December, v.1 : n.2]",
+          "text": "Volume 1, number 2 (December 1916)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39600",
+          "caption": "Everywoman's magazine [1917 : January, v.1 : n.3]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll017.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : January, v.1 : n.3]",
+          "text": "Volume 1, number 3 (January 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39720",
+          "caption": "Everywoman's magazine [1917 : February, v.1 : n.4]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll018.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : February, v.1 : n.4]",
+          "text": "Volume 1, number 4 (February 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39427",
+          "caption": "Everywoman's magazine [1917 : March, v.1 : n.5]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll019.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : March, v.1 : n.5]",
+          "text": "Volume 1, number 5 (March 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39474",
+          "caption": "Everywoman's magazine [1917 : April, v.1 : n.6]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll020.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "04",
+          "day": "",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : April, v.1 : n.6]",
+          "text": "Volume 1, number 6 (April 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39751",
+          "caption": "Everywoman's magazine [1917 : May, v.1 : n.7]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll021.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : May, v.1 : n.7]",
+          "text": "Volume 1, number 7 (May 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39368",
+          "caption": "Everywoman's magazine [1917 : June-July, v.1 : n.9]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll022.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "06; 1917",
+          "day": "07",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : June-July, v.1 : n.9]",
+          "text": "Volume 1, number 9 (June-July 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/40043",
+          "caption": "Everywoman's magazine [1917 : August, v.1 : n.10]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll023.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "08",
+          "day": "",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : August, v.1 : n.10]",
+          "text": "Volume 1, number 10 (August 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39893",
+          "caption": "Everywoman's magazine [1917 : September-October, v.1 : n.11]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll024.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "09; 1917",
+          "day": "10",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : September-October, v.1 : n.11]",
+          "text": "Volume 1, number 11 (September-October 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39789",
+          "caption": "Everywoman's magazine [1917 : November, v.1 : n.12]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll025.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1917"
+        },
+        "text": {
+          "headline": "Everywoman's magazine [1917 : November, v.1 : n.12]",
+          "text": "Volume 1, number 12 (November 1917)"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/12145",
+          "caption": "North Carolina Federation of Woman's Clubs [1905-1906]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll026.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1905;1906"
+        },
+        "text": {
+          "headline": "North Carolina Federation of Woman's Clubs [1905-1906]",
+          "text": "1905-1906 Yearbook"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/12142",
+          "caption": "North Carolina Federation of Women's Clubs [1909-1910]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll027.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1909;1910"
+        },
+        "text": {
+          "headline": "North Carolina Federation of Women's Clubs [1909-1910]",
+          "text": "1909-1910 Yearbook"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/12139",
+          "caption": "North Carolina Federation of Women's Clubs [1913-1914]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll028.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1913;1914"
+        },
+        "text": {
+          "headline": "North Carolina Federation of Women's Clubs [1913-1914]",
+          "text": "1913-1914 Yearbook"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/12137",
+          "caption": "North Carolina Federation of Women's Clubs [1916-1917]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll029.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1916;1917"
+        },
+        "text": {
+          "headline": "North Carolina Federation of Women's Clubs [1916-1917]",
+          "text": "1916-1917 Yearbook"
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll10/1888/full/pct:40/0/default.jpg",
+          "caption": "Back Our Girls Over There",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll032.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1917; 1918"
+        },
+        "text": {
+          "headline": "Back Our Girls Over There",
+          "text": "WWI poster featuring YWCA switchboard operator at work; masses of soldiers appear in background. Text: \"Back our girls over there. United War Work Campaign\""
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll8/1232/full/pct:40/0/default.jpg",
+          "caption": "Letter: Sarepta Revis to Daniel W. Revis, June 7, 1863",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll034.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "07",
+          "year": "1863"
+        },
+        "text": {
+          "headline": "Letter: Sarepta Revis to Daniel W. Revis, June 7, 1863",
+          "text": "Daniel W. Revis and his wife Sarepta were farmers in Henderson County. They wrote letters to each other during the Civil War while Daniel served in Co. B, 64th Regt., Infantry, North Carolina Troops. Sarepta did not know how to read or write but had family members help her compose letters to send to her husband while he was away. Her letters give a glimpse into her life as she lets him know how their family and farm are faring. In this letter, Sarepta gives Daniel a detailed account of a failed attempt by the Henderson County militia to round up Confederate deserters who were trying to return home. She lists who was killed and injured. There are more deserters than militia in Henderson County.  She wishes she could see Daniel again, and tells him she has moved in with her father."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll45/7694/full/pct:40/0/default.jpg",
+          "caption": "Future Homemakers of America: Publications--Newsletters and Bulletins, 1945, 1951, 1978",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll036.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1945; 1951; 1978"
+        },
+        "text": {
+          "headline": "Future Homemakers of America: Publications--Newsletters and Bulletins, 1945, 1951, 1978",
+          "text": "Newsletters and bulletins from 1945, 1951, and 1978. Future Homemakers of America collection, 1929-1984, includes correspondence, reports, news clippings, lists of officers, audits, programs, budgets, photographs, and other records on the history of Future Homemakers of America, New Homemakers of America, and Home Economics Related Occupations. New Homemakers of America, a club for African Americans, merged with Future Homemakers of America when school segregation ended."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll10/8170/full/pct:40/0/default.jpg",
+          "caption": "Ann Preston Bridgers Papers",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll040.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1919"
+        },
+        "text": {
+          "headline": "Ann Preston Bridgers Papers",
+          "text": "Papers of Ann Preston Bridgers relating to her service as YWCA hostess with the American Expeditiionary Forces in France, 1919. Items include correspondence, notes, maps, postcards, and travel documents including Bridgers' passport."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll19/566/full/pct:40/0/default.jpg",
+          "caption": "Political Cartoons: Pro Women’s Suffrage",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll042.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1920"
+        },
+        "text": {
+          "headline": "Political Cartoons: Pro Women’s Suffrage",
+          "text": "Political Cartoons promoting Women’s right to vote."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll19/771/full/pct:40/0/default.jpg",
+          "caption": "Photograph: Tiny Broadwick lands in Griffith Park, Las Angeles Ca.",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll045.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "21",
+          "year": "1913"
+        },
+        "text": {
+          "headline": "Photograph: Tiny Broadwick lands in Griffith Park, Las Angeles Ca.",
+          "text": "A picture of the first landing Tiny Broadwick made from a airplane, at Griffith Park, June 21, 1913. \"This picture was taken in action shot, and was a stand up landing.\" Tiny was born in Granville County, North Carolina and she was the first woman to make a parachute jump from an airplane."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll19/620/full/pct:40/0/default.jpg",
+          "caption": "The Suffragists' Calendar, a year-book for every thinking woman",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll046.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1916"
+        },
+        "text": {
+          "headline": "The Suffragists' Calendar, a year-book for every thinking woman",
+          "text": "“The Suffragists’ Calendar, “A Year Book for Every Thinking Woman. A timely and interesting compilation from the writings and speeches of prominent suffragists and their advocates of political enfranchisement of woman. Boxed, silk cord and tassel tied. Price 50 cents net.”  This calendar is not year specific but contains an excerpt from writings and speeches for each day starting with January 1st thru December 31st."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll35/id/48",
+          "caption": "Bennis M. Blue Interview, 2017-11-16 [MilColl OH 1131]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll047.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "16",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Bennis M. Blue Interview, 2017-11-16 [MilColl OH 1131]",
+          "text": "Bennis Blue was raised in Raleigh, N.C. Self-identifying as a non-tribe affiliated Native American, she is of Native American and African American descent. Blue was stationed with various U.S. Army units from 1976 to 1996 in the U.S. Women\"s Army Corps (WAC), U.S. Army, and U.S. Army Reserves. She was stationed at the following military installations: Fort McClellan, AL, Fort Bragg, N.C.; Fort Lee, Va.; and at a base in Germany. At Fort Bragg in 1978, Blue became the first female minority officer of the 82nd Airborne Division as a First Lieutenant, and one of the first five women to join the 82nd Airborne as the U.S. Army integrated women with men in their units. She would retire from the Army Reserves with the rank of Major. Blue currently resides in Wake County, N.C."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p249901coll44/1149/full/pct:40/0/default.jpg",
+          "caption": "Elaine de Kooning and Buckminster Fuller’s Venetian Blind Strip Dome, 1948 Summer Session in the Arts, Black Mountain College",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll048.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1948"
+        },
+        "text": {
+          "headline": "Elaine de Kooning and Buckminster Fuller’s Venetian Blind Strip Dome, 1948 Summer Session in the Arts, Black Mountain College",
+          "text": "Elaine de Kooning working on the Venetian Blind Strip Dome (also known as the Supine Dome) which was created as part of Buckminster Fuller’s Architecture Class, 1948 Summer Session in the Arts. Photographer: Trude Guermonprez."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p249901coll44/1179/full/pct:40/0/default.jpg",
+          "caption": "Ruth Asawa, Black Mountain College student, 1946-1949",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll049.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1946; 1947; 1948; 1949"
+        },
+        "text": {
+          "headline": "Ruth Asawa, Black Mountain College student, 1946-1949",
+          "text": "Ruth Asawa, Black Mountain College student from 1946-1949, perhaps in an art class. Photographer: Clemens Kalischer."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll34/981/full/pct:40/0/default.jpg",
+          "caption": "Great Lake - Bird Nest Colonies Birds, Mrs. Bayard Wootten the Photographer",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll051.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1911"
+        },
+        "text": {
+          "headline": "Great Lake - Bird Nest Colonies Birds, Mrs. Bayard Wootten the Photographer",
+          "text": "Photographer Bayard Wootten is seen here knee deep in Great Lake located within Croatan National Forest. Wootten was a pioneer in photography and an outspoken suffragette. She was one of the first female aerial photographers when, in 1914, she took photographs from a Wright Brothers Model B airplane. Wootten was adventurous and unflinching in all aspects of her life, especially business. She owned several photography studios and was known to set out on solo trips across the state in her 1920s Ford to photograph North Carolina’s people and landscapes. She continued to photograph well into her 70s and operated her photo studio in Chapel Hill until 1954. This photo is part of a collection taken and overseen by Herbert Hutchinson Brimley (1861-1946) for the Department of Agriculture, the North Carolina Geological Survey and the State Museum."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll5/1867/full/pct:40/0/default.jpg",
+          "caption": "Girl at information booth at Cherokee information center.",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll052.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "",
+          "year": "1947"
+        },
+        "text": {
+          "headline": "Girl at information booth at Cherokee information center.",
+          "text": "Girl at Information Booth, Cherokee Information Center, Cherokee Reservation, Swain Co., June 1947. This photo is part of a collection of photos promoting traveling and tourism in North Carolina, taken by photographers who worked for the Department of Conservation and Development, Division of Travel Information. "
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll5/2217/full/pct:40/0/default.jpg",
+          "caption": "Woman making pottery.",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll053.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "09",
+          "day": "",
+          "year": "1947"
+        },
+        "text": {
+          "headline": "Woman making pottery.",
+          "text": "Cherokee Indian Craft, Cherokee Reservation, Sept 1947. Taken by Hemmer. This photo is part of a collection of photos promoting traveling and tourism in North Carolina, taken by photographers who worked for the Department of Conservation and Development, Division of Travel Information. "
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll13/89/full/pct:40/0/default.jpg",
+          "caption": "Five Palmer Institute Teachers",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll054.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1900"
+        },
+        "text": {
+          "headline": "Five Palmer Institute Teachers",
+          "text": "This photograph depicts five Palmer Memorial Institute (PMI) teachers. PMI was established in 1902 by Dr. Charlotte Hawkins Brown at Sedalia, North Carolina near Greensboro. The African American school evolved from an agricultural and manual training facility to a fully accredited, nationally recognized preparatory school. More than 1,000 students graduated during Brown's 50-year presidency. The school closed its doors in the 1970s, but the campus reopened in 1987 as North Carolina's first African American state historic site and a memorial to Dr. Brown."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll13/81/full/pct:40/0/default.jpg",
+          "caption": "Dr. Brown with Maria, Nat King, and Cookie Cole",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll055.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "",
+          "year": "1948"
+        },
+        "text": {
+          "headline": "Dr. Brown with Maria, Nat King, and Cookie Cole",
+          "text": "Dr. Charlotte Hawkins Brown with Nat King, Maria, and Cookie Cole celebrating a birthday. Maria Cole was the niece of Dr. Brown."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll44/6889/full/pct:40/0/default.jpg",
+          "caption": "Commission Report. Printed copies (2).",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll056.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Commission Report. Printed copies (2).",
+          "text": "The printed Governor's Commission on the Status of Women report titled as \"\"The Many Lives of North Carolina Women.\"\""
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll44/1839/full/pct:40/0/default.jpg",
+          "caption": "Commission. Publicity. Photograph of assembled Commission, October 31, 1964.",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll057.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "10",
+          "day": "31",
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Commission. Publicity. Photograph of assembled Commission, October 31, 1964.",
+          "text": "Photograph of the Commission on the Status of Women assembled for a meeting and an enclosed caption noting the members.; Caption: \"Attending the 31st October meeting of the Governor's Commission on the Status of Women were left to right: Mrs. William T. Crisp, Mrs. Gladys A. Tillett, Dr. Ellen Winston, Mrs. Sarah Herbin, Dr. Rachel Davis, Mr. James E. Lambeth, Dr. Anne F. Scott (CHAIRMAN), Dr. William H. Cartwright, Mrs. C. Odell Matthews, Dr. Guion Johnson, Mrs. Ruth Easterling, Mrs. Anne Kennedy. Members of the Commission not present were: Mrs. C.W. Beasley, Miss Bonnie E. Cone, E. McArthur Currie, Oscar R. Ewing, Dr. Juanita Kreps, Dr. Arthur Larson.\""
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll17/682/full/pct:40/0/default.jpg",
+          "caption": "African American women picketers holding signs calling for justice.",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll058.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1960"
+        },
+        "text": {
+          "headline": "African American women picketers holding signs calling for justice.",
+          "text": "African American women picketers holding signs calling for justice."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll8/16861/full/pct:40/0/default.jpg",
+          "caption": "Mary Speed Jones Mercer, Songs - United: A National Hymn",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll059.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "year": "1909"
+        },
+        "text": {
+          "headline": "Mary Speed Jones Mercer, Songs - United: A National Hymn",
+          "text": "United: A National Hymn is a song copyrighted by Mary Speed Jones Mercer in 1909. She wrote the words and melody, although the orchestration was written by John Philip Sousa. The orchestration includes violins, viola, trombone, clarinet, flute, drums, and bass. She hoped the song would be adopted as the national anthem, but The Star-Spangled Banner was adopted instead in 1931."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll10/945/full/pct:40/0/default.jpg",
+          "caption": "Margaret I. Saunders Correspondence, March 1945",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll060.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "",
+          "year": "1945"
+        },
+        "text": {
+          "headline": "Margaret I. Saunders Correspondence, March 1945",
+          "text": "V-Mail correspondence by Margaret I. Saunders to her husband Lee Saunders, March, 1945. V-Mail for March 13, 1945, does not have Part 8. Lee Saunders served in the U.S. Army Corps of Engineers in the segregated, all African-American unit of Company C, 1332nd Engineer General Service Regiment. He would serve in the Pacific Theater of World War II in New Guinea, the East Indies, and Papua New Guinea. Margaret Saunders describes her and her family's experiences at home near the end of WWII."
+        }
+      },{
+        "media": {
+          "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll35/id/35",
+          "caption": "Eleanor T. Wortz Interview, 1998-05-30 [MilColl OH 957]",
+          "link": "https://ncdigitalcollections.github.io/sctw/items/coll061.html",
+          "credit": "Collection Builder CDM Skin"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "30",
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Eleanor T. Wortz Interview, 1998-05-30 [MilColl OH 957]",
+          "text": "Eleanor Thompson Wortz was born on June 5, 1921 in Salisbury, North Carolina. Wortz's father was employed as a train conductor. She graduated from Spencer High School in Salisbury and then attended Catawba College. While attending Catawba, she became Chief Cheerleader and was a member of the Writer's Club and Editor of the College Annual. At Catawba, Wortz entered the Civilian Pilot Training Program. Wortz served as a Women's Airforce Service Pilot during World War II.  Wortz has written chronicling her experiences called \"\"Flying Gals of World War II.\"\" This oral history interview was digitized through the support by grant funds from the Institute of Museum and Library Services under the provisions of the federal Library Services and Technology Act as administered by the State Library of North Carolina, a division of the Department of Natural and Cultural Resources (IMLS grant number LS-00-17-0034-17)."
+        }
+      }
+    ]
+}

@@ -1,0 +1,535 @@
+<!doctype html>
+<html lang="en">
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Browse | Collection Builder CDM Skin</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://ncdigitalcollections.github.io/sctw/favicon.ico">
+<meta name="generator" content="collectionbuilder-contentdm" />
+<meta http-equiv="Content-Language" content="en-us" >
+
+<meta name="robots" content="noindex" />
+<meta name="description" content="Demo collection using three CONTENTdm collections metadata">
+<meta name="author" content="CollectionBuilder, State Library of North Carolina, State Archives of North Carolina" >
+<!-- Open Graph meta -->
+<meta property="og:title" content="Browse | Collection Builder CDM Skin" />
+<meta property="og:description" content="Demo collection using three CONTENTdm collections metadata" />
+<meta property="og:site_name" content="Collection Builder CDM Skin" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://digital.ncdcr.gov/digital/iiif/p16062coll19/771/full/max/0/default.jpg" />
+<meta property="og:image:alt" content="Photograph: Tiny Broadwick lands in Griffith Park, Las Angeles Ca." />
+<meta property="og:url" content="https://ncdigitalcollections.github.io/sctw/browse.html" />
+<meta property="og:locale" content="en_US" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","headline":"Browse | Collection Builder CDM Skin","publisher":"State Library of North Carolina, State Archives of North Carolina","description":"Demo collection using three CONTENTdm collections metadata","image":"https://digital.ncdcr.gov/digital/iiif/p16062coll19/771/full/max/0/default.jpg","url":"https://ncdigitalcollections.github.io/sctw/browse.html"}</script> 
+
+<link rel="stylesheet" href="https://ncdigitalcollections.github.io/sctw/assets/lib/bootstrap.min.css" type="text/css">
+<script defer src="https://ncdigitalcollections.github.io/sctw/assets/lib/fontawesome-free/js/all.min.js"></script>
+<link rel="stylesheet" href="https://ncdigitalcollections.github.io/sctw/assets/css/custom.css" type="text/css">
+
+<!-- Last build date: 2020-09-14 -->
+  </head>
+  <body>
+    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    <div class="container">
+    <div class="row align-items-center">
+        <div id="title" class="col-md-9">
+            <h1><a class="text-dark font-weight-normal" href="/sctw/" >Collection Builder CDM Skin</a></h1>	 
+            <p>Digital Collection Magic with Static Web Technologies</p>
+        </div>
+        <div class="col-md-3 d-none d-lg-block text-right">
+            <a class="btn btn-outline-light" href="https://digital.ncdcr.gov" target="_blank" rel="noopener">
+                <img class="img-fluid" src="https://digital.ncdcr.gov/customizations/global/images/NCDCWebsiteLogo.png" title="State Library of North Carolina, State Archives of North Carolina" alt="State Library of North Carolina, State Archives of North Carolina logo" >
+            </a>
+        </div>
+    </div>
+</div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#page-nav" aria-controls="page-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <span class="d-lg-none text-right">
+            <a href="https://digital.ncdcr.gov" target="_blank" rel="noopener">
+                <img class="img-fluid" id="mobile-nav-image" src="https://digital.ncdcr.gov/customizations/global/images/NCDCWebsiteLogo.png" title="State Library of North Carolina, State Archives of North Carolina" alt="State Library of North Carolina, State Archives of North Carolina logo" >
+            </a>
+        </span>
+
+        <div class="collapse navbar-collapse" id="page-nav">
+            <ul class="navbar-nav mr-auto">
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/sctw/">Home</a>
+                </li>
+                
+                <li class="nav-item active">
+                    <a class="nav-link " href="/sctw/browse.html">Browse</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/sctw/subjects.html">Subjects</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/sctw/locations.html">Locations</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/sctw/map.html">Map</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/sctw/timeline.html">Timeline</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/sctw/data/">Data</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/sctw/about.html">About</a>
+                </li><li class="nav-item ">
+                    <a class="nav-link " href="https://digital.ncdcr.gov/search/collection/p16062coll9!p249901coll37!p16062coll18!p249901coll22!p16062coll19!p15012coll10!p16062coll45!p15012coll8!p16062coll35!p249901coll44!p16062coll34!p15012coll5!p16062coll13!p16062coll44!p16062coll17!p16062coll10/" target="_blank" rel="noopener">Database</a>
+                </li>
+            </ul>
+            <script>
+    function cdm_search() {
+        var query = document.getElementById("nav-search").value;
+        window.open("https://digital.ncdcr.gov/digital/search/collection/p16062coll9!p249901coll37!p16062coll18!p249901coll22!p16062coll19!p15012coll10!p16062coll45!p15012coll8!p16062coll35!p249901coll44!p16062coll34!p15012coll5!p16062coll13!p16062coll44!p16062coll17!p16062coll10/searchterm/" + encodeURI(query), "_blank" );
+    }
+</script>
+<form class="form-inline my-2 my-lg-0" role="search" id="cdm-search" onsubmit="cdm_search(); return false;">
+    <input id="nav-search" class="form-control mr-sm-2 col-sm-9" type="text" placeholder="Search" aria-label="Search">
+    <button class="btn btn-primary" type="submit">
+        <svg viewBox="0 0 512 512" class="align-middle" width="1em"><path fill="#fff" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+        <span class="sr-only">Search Objects</span>
+    </button>
+</form>
+        </div>
+    </div>    
+</nav>
+
+    <main id="maincontent" role="main">
+      <div class="container mt-4">
+  <h2 id="browse-items">Browse Items</h2>
+
+
+<div class="row mb-3 justify-content-center text-center">
+    <div class="col-md-8">
+        <div class="input-group input-group-lg">
+            <input type="text" class="form-control form-control-lg" id="quickSearch" placeholder="Filter ... " aria-label="Search">
+            <div class="input-group-append">
+                <button class="btn btn-success" type="button" title="Filter items" alt="Search" id="goButton">Search</button>
+                <a class="btn btn-outline-secondary filter" href="#" data-filter="">Reset</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="dropdown">
+            <button class="btn btn-secondary mt-1 dropdown-toggle" type="button" id="browseSortButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Sort by <span class="font-weight-bold" id="sortfilter">Random</span>
+            </button>
+            <div class="dropdown-menu browse-sort-menu" aria-labelledby="browseSortButton">
+                <button class="dropdown-item browse-sort-item active" data-filter="random">Random</button>
+                <button class="dropdown-item browse-sort-item" data-filter="title">Title</button>
+                
+                
+                <button class="dropdown-item browse-sort-item" data-filter="date">Date</button>
+                
+                <button class="dropdown-item browse-sort-item" data-filter="creator">Creator</button>
+                
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12 h4 mt-2" id="numberOf"></div>
+</div>
+
+<div id="loading" class="text-center">
+    <div class="spinner-border text-secondary" role="status"><span class="sr-only">Loading...</span></div>
+</div>
+
+<div class="row" id="browseItems"></div>
+</div>
+    </main>
+    <footer class="bg-dark pt-4 container-fluid mt-3">
+
+    <div class="row border-bottom border-white pb-4 mb-2">
+
+        <div class="col-md-7  px-4 mt-2">
+
+            <h4><a href="https://ncdigitalcollections.github.io/sctw/" class="text-white font-weight-normal">Collection Builder CDM Skin</a></h4>
+            <p class="text-white"><small>Demo collection using three CONTENTdm collections metadata</small></p>
+            <nav>
+                <ul class="nav nav-pills ">
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/sctw/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light active" href="/sctw/browse.html">Browse</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/sctw/subjects.html">Subjects</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/sctw/locations.html">Locations</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/sctw/map.html">Map</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/sctw/timeline.html">Timeline</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/sctw/data/">Data</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/sctw/about.html">About</a>
+                    </li></ul>
+            </nav>
+
+        </div>
+
+        <div class="col-md-5 mt-2 text-right">
+
+            <p class="text-right">
+                <a href="https://digital.ncdcr.gov" target="_blank" rel="noopener">
+                    <img class="img-fluid" src="https://digital.ncdcr.gov/customizations/global/images/NCDCWebsiteLogo.png" alt="State Library of North Carolina, State Archives of North Carolina logo">
+                </a>
+            </p>
+            <p class="text-white" id="footer-credits">
+                <small><em>built with</em>
+                    <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" title="CollectionBuilder">
+                        <img src="/sctw/assets/img/collectionbuilder-logo.png" class="img-fluid" alt="CollectionBuilder logo" >
+                    </a>
+                </small>
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-12 text-center pt-3 pb-1">
+        <p class="text-white">Last updated 2020</p>
+    </div>
+
+</footer>
+    <!-- Optional JS for Bootstrap: jQuery first, then Bootstrap bundle JS -->
+<script src="https://ncdigitalcollections.github.io/sctw/assets/lib/jquery-3.4.1.min.js"></script>
+<script src="https://ncdigitalcollections.github.io/sctw/assets/lib/bootstrap.bundle.min.js"></script>
+<!-- load other js -->
+<script src="https://ncdigitalcollections.github.io/sctw/assets/lib/lazysizes.min.js" async></script>
+
+<script>
+
+function makeCard(obj) {
+    // find item link
+    var itemHref = "/sctw/items/" + obj.id + ".html";
+    // find images
+    if(obj.youtube) {
+      var imgSrc = 'https://img.youtube.com/vi/' + obj.youtube + '/hqdefault.jpg';
+    } else if(obj.format.includes('image')) { 
+      var imgSrc = 'https://digital.ncdcr.gov/digital/iiif/' + obj.col + '/' + obj.cdm + '/full/pct:40/0/default.jpg';
+    } else {
+      var thumbSrc = 'https://digital.ncdcr.gov/utils/getthumbnail/collection/' + obj.col + '/id/' + obj.cdm;
+    }
+    // start card
+    var card = '<div class="item col-lg-4 col-md-6 col-sm-12 mb-2"><div class="card">';
+    // top image for photos
+    if(imgSrc) {
+      card += '<a href="' + itemHref + '"> <img class="card-img-top lazyload" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a>';
+    }
+    // title
+    card += '<div class="card-body text-center"> <h4 class="card-title"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h4>';
+    // thumb for non-photo items
+    if(thumbSrc){
+      card += '<p><a href="' + itemHref + '"><img class="lazyload" data-src="' + thumbSrc + '" alt="Image of ' + obj.title + '"></a></p>';
+    }
+    // other fields
+    card += '<p class="card-text">';
+    
+    if(obj["date"]){
+    card += '<strong>Date:</strong> ';
+    
+    card += obj["date"];
+    
+    card += '<br>';
+    }
+    
+    if(obj["creator"]){
+    card += '<strong>Creator:</strong> ';
+    
+    card += obj["creator"];
+    
+    card += '<br>';
+    }
+    
+    if(obj["subject"]){
+    
+    
+    var btns = obj["subject"].split(";");
+    for (var i = 0, len = btns.length; i < len; i++) {
+      if(btns[i] != "") {
+        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="/sctw/browse.html#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
+      }
+    }
+    
+    card += '<br>';
+    }
+    
+    if(obj["location"]){
+    card += '<strong>Location:</strong> ';
+    
+    card += obj["location"];
+    
+    
+    }
+    
+    card += '</p>';
+    // media type
+    if(obj.format != "") {
+      card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="/sctw/browse.html#' + encodeURIComponent(obj.format) + '">' + 
+        obj.format.split("/").pop().toUpperCase() + ' <span class="';
+      if(obj.format.includes('image')){
+        card += 'far fa-image';
+      } else if(obj.format.includes('audio')){
+        card += 'far fa-file-audio';
+      } else if(obj.format.includes('video')){
+        card += 'far fa-file-video';
+      } else {
+        card += 'far fa-file';
+      }
+      card += '"></span></a></small></p>';
+    }
+    // view button
+    card += '<hr><a href="' + itemHref + '" class="btn btn-sm btn-light text-primary" title="link to ' + obj.title + '">View Full Record</a>';
+    // close divs
+    card += '</div></div></div>';
+    // send back big string
+    return card;
+  }
+
+  /* Fisher-Yates shuffle https://bost.ocks.org/mike/shuffle/ */
+  function shuffle(array) {
+    var m = array.length, t, i;
+    while (m) {
+    i = Math.floor(Math.random() * m--);
+    t = array[m];
+    array[m] = array[i];
+    array[i] = t;
+    }
+    return array;
+  }
+
+  /* add items */
+  var items = [
+    
+    { "title":"North Carolina College for Women in pictures", "format":"application/pdf", "date":"1920","subject":"North Carolina College for Women--Pictorial works; Universities and colleges--North Carolina--Pictorial works","location":"Greensboro, Guilford County, North Carolina, United States; Guilford County, North Caroliana, United States",  "col": "p16062coll9", "cdm":"549079", "id":"coll000" },
+    { "title":"Pictorial review to acquaint the people of North Carolina more fully with their College for Women at Greensboro", "format":"application/pdf", "date":"1932","subject":"North Carolina College for Women--Pictorial works;Universities and colleges--North Carolina--Pictorial works","location":"Greensboro, Guilford County, North Carolina, United States; Guilford County, North Caroliana, United States",  "col": "p16062coll9", "cdm":"549116", "id":"coll001" },
+    { "title":"Women and the law : a handbook for North Carolina", "format":"application/pdf", "date":"1975","creator":"University of North Carolina at Chapel Hill. Women in Law.","subject":"Women--Legal status, laws, etc.--North Carolina","location":"North Carolina, United States",  "col": "p16062coll9", "cdm":"616805", "id":"coll002" },
+    { "title":"Women of distinction : remarkable in works and invincible in character", "format":"application/pdf", "date":"1893","creator":"Scruggs, L. A. (Lawson Andrew), 1857-1914.","subject":"North Caroliniana; African American women--Biography; African Americans--Biography; Women--Biography","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"20818", "id":"coll003" },
+    { "title":"Flora MacDonald : a history and a message", "format":"application/pdf", "date":"1916","creator":"MacDonald, James A.","subject":"MacDonald, Flora, 1722-1790;Flora Macdonald College (Red Springs, N.C.)--History;Women heroes--Scotland--Biography;Scotland--History--18th century","location":"Red Springs, Robeson County, North Carolina, United States; Robeson County, North Carolina, United States",  "col": "p249901coll37", "cdm":"40609", "id":"coll004" },
+    { "title":"Busy North Carolina women", "format":"application/pdf", "date":"1931","creator":"Walker, Harriette Hammer.","subject":"Women--North Carolina;Women--North Carolina--Biography;Minorities--North Carolina","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"3372", "id":"coll005" },
+    { "title":"Admission of women to the University", "format":"application/pdf", "date":"1923","creator":"Chase, Harry Woodburn, 1883-1955.","subject":"University of North Carolina (1793-1962)--Admission;Women--Education--North Carolina;Coeducation--North Carolina","location":"Chapel Hill, Orange County, North Carolina, United States;Orange County, North Carolina, United States",  "col": "p16062coll9", "cdm":"659811", "id":"coll006" },
+    { "title":"Our State", "format":"image/jpeg", "date":"2007-03","subject":"North Carolina--Periodicals;Women sculptors;Women dancers;Women novelists;Women poets;Women television personalities--Charlotte (N.C.);Feezor, Betty, 1925-1978;Capehart, Noyes, 1933-;Painters--North Carolina--Boone;Macon County (N.C.)--Description and travel;Franklin (N.C.)--Description and travel;Trails--North Carolina--Raleigh;Turlington, Ethel, d. 1977;Women farmers--North Carolina--Johnston County;Mica mines and mining--North Carolina, Western;Feldspar;Clawson, Addie, 1911-1964;Letter carriers--North Carolina--Watauga County;McKimmon, Jane Simpson, 1867-1957;Home demonstration work;Home economics, Rural;Burwell, Margaret Anna Robertson, 1810-1871;Burwell School--North Carolina--Hillsborough--History;Shaw, Ruth Faison, 1888-1968;Finger painting;Art therapy;Kephart, Horace, 1862-1931;Jacobs, Harriet A. (Harriet Ann), 1813-1897;Women slaves--North Carolina--Edenton--Biography;Slaves' writings, American;Cleaning compounds industry--North Carolina--Mayodan;Soap trade--North Carolina--Mayodan;Museums--North Carolina--Hickory;Museums--North Carolina--Newton;King, Margaret Belva Mizelle, 1918-2004;Military nursing--United States--History--20th century;Leeper, Hattie;African American radio broadcasters--North Carolina--Charlotte","location":"North Carolina, United States",  "col": "p16062coll18", "cdm":"88709", "id":"coll007" },
+    { "title":"State", "format":"image/jpeg", "date":"1944-01-01","subject":"North Carolina--Periodicals;Surry County (N.C.)--Industry and agriculture;North Carolina--History--American Revolutionary;War, 1775-1783--Women;Women in war;Tryon County (N.C.)--History","location":"North Carolina, United States",  "col": "p16062coll18", "cdm":"18303", "id":"coll008" },
+    { "title":"Our State", "format":"image/jpeg", "date":"2003-09","subject":"North Carolina--Periodicals;Southern Pines (N.C.)--Description and travel;Judaculla Rock (N.C.);Statues--North Carolina--Raleigh;Monuments;Women in war;Edenton (N.C.)--Description and travel","location":"North Carolina, United States",  "col": "p16062coll18", "cdm":"77742", "id":"coll009" },
+    { "title":"Women of the century: a commemorative program of the Distinguished Women of North Carolina Awards Banquet", "format":"application/pdf", "date":"2000","creator":"North Carolina Council for Women.","subject":"North Carolina Council for Women--Awards;Women--North Carolina--Awards;Women--North Carolina--Biography;Women legislators--North Carolina--Biography","location":"North Carolina, United States",  "col": "p249901coll22", "cdm":"307211", "id":"coll010" },
+    { "title":"Women&#39;s history month in North Carolina: a salute to women in history, March 1991-1992", "format":"application/pdf", "subject":"Women--United States--History;Women--North Carolina--History","location":"North Carolina, United States",  "col": "p249901coll22", "cdm":"306784", "id":"coll011" },
+    { "title":"Equal suffrage : address", "format":"application/pdf", "date":"1914","creator":"Clark, Walter, 1846-1924.","subject":"North Caroliniana;Women--Suffrage","location":"Richmond, Richmond (city), Virginia, United States",  "col": "p249901coll37", "cdm":"18767", "id":"coll012" },
+    { "title":"Mary Mendenhall Hobbs : a lecture delivered at Guilford College, on Founders Day, 1955", "format":"application/pdf", "date":"1955","creator":"Doak, Frances Renfrow.","subject":"Hobbs, Mary Mendenhall, 1852-1930","location":"Guilford County, North Carolina, United States; North Carolina, United States",  "col": "p249901coll37", "cdm":"40568", "id":"coll013" },
+    { "title":"Tributes to Dr. Elizabeth Delia Dixon Carroll, the Meredith auditorium, November 4, 1934", "format":"application/pdf", "date":"1934","subject":"Carroll, Elizabeth Delia Dixon, -1934;Old State Library Collection","location":"Raleigh, Wake County, North Carolina, United States; Wake County, North Carolina, United States",  "col": "p249901coll37", "cdm":"40502", "id":"coll014" },
+    { "title":"Everywoman&#39;s magazine [1916 : October, v.1 : n.1]", "format":"application/pdf", "date":"1916-10","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39661", "id":"coll015" },
+    { "title":"Everywoman&#39;s magazine [1916 : December, v.1 : n.2]", "format":"application/pdf", "date":"1916-12","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39541", "id":"coll016" },
+    { "title":"Everywoman&#39;s magazine [1917 : January, v.1 : n.3]", "format":"application/pdf", "date":"1917-01","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39600", "id":"coll017" },
+    { "title":"Everywoman&#39;s magazine [1917 : February, v.1 : n.4]", "format":"application/pdf", "date":"1917-02","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39720", "id":"coll018" },
+    { "title":"Everywoman&#39;s magazine [1917 : March, v.1 : n.5]", "format":"application/pdf", "date":"1917-03","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39427", "id":"coll019" },
+    { "title":"Everywoman&#39;s magazine [1917 : April, v.1 : n.6]", "format":"application/pdf", "date":"1917-04","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39474", "id":"coll020" },
+    { "title":"Everywoman&#39;s magazine [1917 : May, v.1 : n.7]", "format":"application/pdf", "date":"1917-05","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39751", "id":"coll021" },
+    { "title":"Everywoman&#39;s magazine [1917 : June-July, v.1 : n.9]", "format":"application/pdf", "date":"1917-06; 1917-07","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39368", "id":"coll022" },
+    { "title":"Everywoman&#39;s magazine [1917 : August, v.1 : n.10]", "format":"application/pdf", "date":"1917-08","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"40043", "id":"coll023" },
+    { "title":"Everywoman&#39;s magazine [1917 : September-October, v.1 : n.11]", "format":"application/pdf", "date":"1917-09; 1917-10","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39893", "id":"coll024" },
+    { "title":"Everywoman&#39;s magazine [1917 : November, v.1 : n.12]", "format":"application/pdf", "date":"1917-11","subject":"Women--Southern States--Periodicals;Women--North Carolina--Periodicals;Southern States--Social life and customs","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"39789", "id":"coll025" },
+    { "title":"North Carolina Federation of Woman&#39;s Clubs [1905-1906]", "format":"application/pdf", "date":"1905;1906","creator":"North Carolina Federation of Women's Clubs.","subject":"North Carolina Federation of Women's Clubs;Women--North Carolina--Societies and clubs--Periodicals","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"12145", "id":"coll026" },
+    { "title":"North Carolina Federation of Women&#39;s Clubs [1909-1910]", "format":"application/pdf", "date":"1909;1910","creator":"North Carolina Federation of Women's Clubs.","subject":"North Carolina Federation of Women's Clubs;Women--North Carolina--Societies and clubs--Periodicals","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"12142", "id":"coll027" },
+    { "title":"North Carolina Federation of Women&#39;s Clubs [1913-1914]", "format":"application/pdf", "date":"1913;1914","creator":"North Carolina Federation of Women's Clubs.","subject":"North Carolina Federation of Women's Clubs;Women--North Carolina--Societies and clubs--Periodicals","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"12139", "id":"coll028" },
+    { "title":"North Carolina Federation of Women&#39;s Clubs [1916-1917]", "format":"application/pdf", "date":"1916;1917","creator":"North Carolina Federation of Women's Clubs.","subject":"North Carolina Federation of Women's Clubs;Women--North Carolina--Societies and clubs--Periodicals","location":"North Carolina, United States",  "col": "p249901coll37", "cdm":"12137", "id":"coll029" },
+    { "title":"Pro-Woman Suffrage Circular: Twelve Reasons Why Women Should Vote", "format":"image/jpeg", "creator":"Equal Suffrage Association of North Carolina.","subject":"Equal Suffrage League of North Carolina; National American Woman Suffrage Association; National American Woman Suffrage Association--History--20th century; National American Woman Suffrage Association. League of Women Voters; Women; Women & politics; Women & the law; Women--History--20th century; Women--Suffrage; States' rights (American politics)--History--20th century;","location":"Raleigh, Wake County, North Carolina, United States; Wake County, North Carolina, United States",  "col": "p16062coll19", "cdm":"556", "id":"coll030" },
+    { "title":"Photographs: NC. Equal Suffrage Association, headquarters", "format":"image/jpeg", "subject":"Equal Suffrage League of North Carolina; National American Woman Suffrage Association; National American Woman Suffrage Association--History--20th century; National American Woman Suffrage Association. League of Women Voters; Women; Women & politics; Women & the law; Women--History--20th century; Women--Suffrage; States' rights (American politics)--History--20th century;","location":"Raleigh, Wake County, North Carolina, United States; Wake County, North Carolina, United States",  "col": "p16062coll19", "cdm":"553", "id":"coll031" },
+    { "title":"Back Our Girls Over There", "format":"image/jpeg", "date":"1917; 1918","creator":"Underwood, Clarence F.","subject":"World War, 1914-1918; Young Women’s Christian Association of the U.S.A.; United War Work Campaign, Inc.; Posters; World War, 1914-1918--War work--Women; World War, 1914-1918--Women",  "col": "p15012coll10", "cdm":"1888", "id":"coll032" },
+    { "title":"New Homemakers of America: Activities--Photographs", "format":"image/jpeg", "creator":"North Carolina. Department of Public Instruction.","subject":"Future Homemakers of America; Home economics; Home demonstration work; New Homemakers of America; North Carolina Future Homemakers of America; Segregation; Women--Vocational guidance","location":"North Carolina, United States",  "col": "p16062coll45", "cdm":"1945", "id":"coll033" },
+    { "title":"Letter: Sarepta Revis to Daniel W. Revis, June 7, 1863", "format":"image/jpeg", "date":"1863-06-07","creator":"Revis, Sarepta.","subject":"United States--History--Civil War, 1861-1865; United States--History--Civil War, 1861-1865--Health aspects; United States--History--Civil War, 1861-1865--Correspondence; United States--History--Civil War, 1861-1865--Desertions; Henderson County (N.C.); Women--North Carolina--Social conditions; Confederate States of America--Social conditions; North Carolina--History--Civil War, 1861-1865--Sources;","location":"Henderson County, North Carolina, United States",  "col": "p15012coll8", "cdm":"1232", "id":"coll034" },
+    { "title":"Future Homemakers of America: History--Photographs--People, Executive Council, State Officers", "format":"image/jpeg", "creator":"North Carolina. Department of Public Instruction.","subject":"Future Homemakers of America; Home economics; Home demonstration work; North Carolina Future Homemakers of America; Segregation; Women--Vocational guidance","location":"North Carolina, United States",  "col": "p16062coll45", "cdm":"6619", "id":"coll035" },
+    { "title":"Future Homemakers of America: Publications--Newsletters and Bulletins, 1945, 1951, 1978", "format":"image/jpeg", "date":"1945; 1951; 1978","creator":"North Carolina. Department of Public Instruction.","subject":"Future Homemakers of America; Home economics; Home demonstration work; North Carolina Future Homemakers of America; Segregation; Women--Vocational guidance","location":"North Carolina, United States",  "col": "p16062coll45", "cdm":"7694", "id":"coll036" },
+    { "title":"New Homemakers of America: History--Executive Council and State Officers--Photographs", "format":"image/jpeg", "creator":"North Carolina. Department of Public Instruction.","subject":"Future Homemakers of America; Home economics; Home demonstration work; North Carolina Future Homemakers of America; Segregation; Women--Vocational guidance","location":"North Carolina, United States",  "col": "p16062coll45", "cdm":"3049", "id":"coll037" },
+    { "title":"The Girl On The Land Serves The Nation&#39;s Need", "format":"image/jpeg", "creator":"Penfield, Edward, 1866-1925.","subject":"World War, 1914-1918; Young Women’s Christian Association of the U.S.A.; Women; Posters; World War, 1914-1918--War work--Women; Agriculture;",  "col": "p15012coll10", "cdm":"1916", "id":"coll038" },
+    { "title":"Women canning produce in Asheville, N.C.", "format":"image/jpeg", "subject":"World War, 1914-1918; Canning and preserving; World War, 1914-1918--War work--Women; Canneries;","location":"Asheville, Buncombe County, North Carolina, United States;Buncombe County, North Carolina, United States",  "col": "p15012coll10", "cdm":"3545", "id":"coll039" },
+    { "title":"Ann Preston Bridgers Papers", "format":"image/jpeg", "date":"1919","creator":"Bridgers, Ann Preston.","subject":"United States. Army. American Expeditionary Forces; World War, 1914-1918; World War, 1914-1918--Women--United States; Young Women's Christian Association","location":"France",  "col": "p15012coll10", "cdm":"8170", "id":"coll040" },
+    { "title":"Grosgrain Ribbon Sash: Vote for Women", "format":"image/jpeg", "subject":"Equal Suffrage League of North Carolina; National American Woman Suffrage Association; National American Woman Suffrage Association--History--20th century; National American Woman Suffrage Association. League of Women Voters; Women; Women & politics; Women & the law; Women--History--20th century; Women--Suffrage; States' rights (American politics)--History--20th century;",  "col": "p16062coll19", "cdm":"550", "id":"coll041" },
+    { "title":"Political Cartoons: Pro Women’s Suffrage", "format":"image/jpeg", "date":"1920","subject":"Equal Suffrage League of North Carolina; National American Woman Suffrage Association; National American Woman Suffrage Association--History--20th century; National American Woman Suffrage Association. League of Women Voters; Women; Women & politics; Women & the law; Women--History--20th century; Women--Suffrage; States' rights (American politics)--History--20th century;","location":"United States",  "col": "p16062coll19", "cdm":"566", "id":"coll042" },
+    { "title":"Hand Held Fan: &quot;I want to speak for myself at the polls&quot;", "format":"image/jpeg", "creator":"National Woman Suffrage Publishing Company, Inc.","subject":"Equal Suffrage League of North Carolina; National American Woman Suffrage Association; National American Woman Suffrage Association--History--20th century; National American Woman Suffrage Association. League of Women Voters; Women; Women & politics; Women & the law; Women--History--20th century; Women--Suffrage; States' rights (American politics)--History--20th century;","location":"New York City, New York County, New York, United States",  "col": "p16062coll19", "cdm":"581", "id":"coll043" },
+    { "title":"Photograph: Tiny Broadwick shows the backpack parachute", "format":"image/jpeg", "subject":"Brown, Georgia Thompson, 1893-1978; Martin, Glenn L. (Glenn Luther), 1886-1955; Parachuting; Parachuting--Equipment and supplies; Parachuting--Equipment and supplies--History--20th century; Parachuting--History; Skydiving; Skydivers; Skydiving--United States--History; Aircraft industry--United States--History; Stunt flying; Stunt flying--United States--History--20th century;",  "col": "p16062coll19", "cdm":"979", "id":"coll044" },
+    { "title":"Photograph: Tiny Broadwick lands in Griffith Park, Las Angeles Ca.", "format":"image/jpeg", "date":"1913-06-21","subject":"Brown, Georgia Thompson, 1893-1978; Parachuting; Parachuting--Equipment and supplies; Parachuting--Equipment and supplies--History--20th century; Parachuting--History; Skydiving; Skydivers; Skydiving--United States--History; Aircraft industry--United States--History; Stunt flying; Stunt flying--United States--History--20th century","location":"Griffith Park, Los Angeles, California, United States",  "col": "p16062coll19", "cdm":"771", "id":"coll045" },
+    { "title":"The Suffragists&#39; Calendar, a year-book for every thinking woman", "format":"image/jpeg", "date":"1916","creator":"P. F. Vollard & Co.","subject":"Equal Suffrage League of North Carolina; National American Woman Suffrage Association; National American Woman Suffrage Association--History--20th century; National American Woman Suffrage Association. League of Women Voters; Women; Women & politics; Women & the law; Women--History--20th century; Women--Suffrage; States' rights (American politics)--History--20th century;",  "col": "p16062coll19", "cdm":"620", "id":"coll046" },
+    { "title":"Bennis M. Blue Interview, 2017-11-16 [MilColl OH 1131]", "format":"audio/mp3", "date":"2017-11-16","creator":"Blue, Bennis M.","subject":"Fort Bragg (N.C.); Fort Lee (Va.); Fort McClellan (Ala.); Military history; Oral histories; Oral history; Personal narratives; Retired military personnel; United States. Army. Airborne Division, 82nd; United States. Army Reserve; United States. Army. Women's Army Corps; Veterans","location":"Fort Bragg, Hoke County, North Carolina, United States; Hoke County, North Carolina, United States; Fort Lee, Prince George County, Virginia, United States; Fort McClellan, Calhoun County, Alabama, United States; Germany; Raleigh, Wake County, North Carolina, United States; Wake County, North Carolina, United States",  "col": "p16062coll35", "cdm":"48", "id":"coll047" },
+    { "title":"Elaine de Kooning and Buckminster Fuller’s Venetian Blind Strip Dome, 1948 Summer Session in the Arts, Black Mountain College", "format":"image/jpeg", "date":"1948","creator":"Guermonprez, Trude, 1910-1976.","subject":"Black Mountain College (Black Mountain, N.C.); Universities and colleges--North Carolina--Black Mountain; Education, Humanistic--North Carolina; College teachers--North Carolina--Black Mountain; Fuller, R. Buckminster (Richard Buckminster), 1895-1983; Architecture--Study and teaching--North Carolina; De Kooning, Elaine; Architecture--North Carolina--Buncombe County; Women artists","location":"Black Mountain, Buncombe County, North Carolina, United States;Buncombe County, North Carolina, United States",  "col": "p249901coll44", "cdm":"1149", "id":"coll048" },
+    { "title":"Ruth Asawa, Black Mountain College student, 1946-1949", "format":"image/jpeg", "date":"1946; 1947; 1948; 1949","creator":"Black Mountain College (Black Mountain, N.C.); Kalischer, Clemens.","subject":"Black Mountain College (Black Mountain, N.C.); College students--North Carolina--Black Mountain; Universities and colleges--North Carolina--Black Mountain; Schools--North Carolina--Buncombe County; Art--Study and teaching--North Carolina; Asawa, Ruth; Women artists","location":"Black Mountain, Buncombe County, North Carolina, United States;Buncombe County, North Carolina, United States",  "col": "p249901coll44", "cdm":"1179", "id":"coll049" },
+    { "title":"Anni Albers card weaving at Black Mountain College", "format":"image/jpeg", "creator":"Black Mountain College (Black Mountain, N.C.)","subject":"Black Mountain College (Black Mountain, N.C.); Universities and colleges--North Carolina--Black Mountain; Education, Humanistic--North Carolina; Schools--North Carolina--Buncombe County; College teachers--North Carolina--Black Mountain; Albers, Anni; Weaving--North Carolina--Black Mountain; Women artists","location":"Black Mountain, Buncombe County, North Carolina, United States;Buncombe County, North Carolina, United States",  "col": "p249901coll44", "cdm":"1232", "id":"coll050" },
+    { "title":"Great Lake - Bird Nest Colonies Birds, Mrs. Bayard Wootten the Photographer", "format":"image/jpeg", "date":"1911","creator":"Brimley, H. H. (Herbert Hutchinson), 1861-1946.","subject":"North Carolina State Museum of Natural History; Photographers--North Carolina; Wildlife photography; Wootten, Bayard Morgan, 1875-1959; Women photographers","location":"Great Lake, Craven County, North Carolina, United States;Craven County, North Carolina, United States",  "col": "p16062coll34", "cdm":"981", "id":"coll051" },
+    { "title":"Girl at information booth at Cherokee information center.", "format":"image/jpeg", "date":"1947-06","subject":"Cherokee Indians; Indians of North America; Cherokee women; Tourism--North Carolina","location":"Swain County, North Carolina, United States",  "col": "p15012coll5", "cdm":"1867", "id":"coll052" },
+    { "title":"Woman making pottery.", "format":"image/jpeg", "date":"1947-09","creator":"Hemmer, John H., 1892-1981.","subject":"Cherokee Indians; Indians of North America; Handicraft; Pottery; Cherokee women; Tourism--North Carolina; Women artists","location":"Swain County, North Carolina, United States",  "col": "p15012coll5", "cdm":"2217", "id":"coll053" },
+    { "title":"Five Palmer Institute Teachers", "format":"image/jpeg", "date":"1900","subject":"Palmer Memorial Institute (Sedalia, N.C.)--History; Brown, Charlotte Hawkins, 1883-1961; Teachers; African Americans--History--North Carolina; African Americans--Southern States--History; African American women","location":"Sedalia, Guilford County, North Carolina, United States;Guilford County, North Carolina, United States",  "col": "p16062coll13", "cdm":"89", "id":"coll054" },
+    { "title":"Dr. Brown with Maria, Nat King, and Cookie Cole", "format":"image/jpeg", "date":"1948-03","subject":"Palmer Memorial Institute (Sedalia, N.C.)--History; Cole, Nat King, 1919-1965; Brown, Charlotte Hawkins, 1883-1961;Cole, Maria, 1922-2012; African American women","location":"Sedalia, Guilford County, North Carolina, United States;Guilford County, North Carolina, United States",  "col": "p16062coll13", "cdm":"81", "id":"coll055" },
+    { "title":"Commission Report. Printed copies (2).", "format":"image/jpeg", "date":"1964","creator":"North Carolina. Governor's Commission on the Status of Women.;","subject":"Women's rights; Employment & social affairs; Equality--United States; North Carolina--History; Sanford, Terry, 1917-1998; Labor laws and legislation; African American women; Indians of North America; Education & culture; Discrimination; Income distribution; Communities; Families--United States--Statistics; Civil rights; Civil rights movements--United States--History--20th century; Volunteers; Volunteer jobs; Voting; Civic participation: working for civil rights; Civic improvement; Political activists--United States; Women political activists; North Carolina Council for Women; North Carolina Council on the Status of Women; North Carolina. Governor's Commission on the Status of Women;","location":"Raleigh, Wake County, North Carolina, United States;Wake County, North Carolina, United States",  "col": "p16062coll44", "cdm":"6889", "id":"coll056" },
+    { "title":"Commission. Publicity. Photograph of assembled Commission, October 31, 1964.", "format":"image/jpeg", "date":"1964-10-31","creator":"North Carolina. Governor's Commission on the Status of Women.;","subject":"Women's rights; Employment & social affairs; Equality--United States; North Carolina--History; Sanford, Terry, 1917-1998; African American women; North Carolina Council for Women; North Carolina Council on the Status of Women; North Carolina. Governor's Commission on the Status of Women;","location":"Raleigh, Wake County, North Carolina, United States;Wake County, North Carolina, United States",  "col": "p16062coll44", "cdm":"1839", "id":"coll057" },
+    { "title":"African American women picketers holding signs calling for justice.", "format":"image/jpeg", "date":"1960","creator":"News and observer (Raleigh, N.C.)","subject":"Civil rights movements--North Carolina--History--20th century; African Americans--Civil rights; North Carolina--Social conditions--20th century; North Carolina--Race relations--History--20th century; Civil rights demonstrations--North Carolina;",  "col": "p16062coll17", "cdm":"682", "id":"coll058" },
+    { "title":"Mary Speed Jones Mercer, Songs - United: A National Hymn", "format":"image/jpeg", "date":"1909","creator":"Mercer, Mary Speed Jones.; Sousa, John Philip, 1854-1932.","subject":"American fiction--Women authors; Lee, Annie Carter, 1839-1862; Lee, Robert E. (Robert Edward), 1807-1870; Warren County (N.C.); Women poets; North Carolina--History--Civil War, 1861-1865; Music by women composers; Sepulchral monuments.","location":"Warrenton, Warren County, North Carolina, United States;Warren County, North Carolina, United States",  "col": "p15012coll8", "cdm":"16861", "id":"coll059" },
+    { "title":"Margaret I. Saunders Correspondence, March 1945", "format":"image/jpeg", "date":"1945-03","creator":"Saunders, Margaret I. (Margaret Isabelle Henderson), 1914-1999.","subject":"Bennett College (Greensboro, N.C.); Roosevelt, Eleanor, 1884-1962; World War, 1939-1945; World War, 1939-1945--African Americans","location":"Greensboro, Guilford County, North Carolina, United States;Guilford County, North Carolina, United States",  "col": "p16062coll10", "cdm":"945", "id":"coll060" },
+    { "title":"Eleanor T. Wortz Interview, 1998-05-30 [MilColl OH 957]", "format":"video/mp4", "date":"1998-05-30","creator":"Wortz, Eleanor Thompson, 1921-","subject":"Civilian Pilot Training Program (U.S.); Military history; Oral histories; Oral history; Personal narratives; Retired military personnel; Veterans; Women Airforce Service Pilots (U.S.); Women air pilots; World War, 1939-1945","location":"Salisbury, Rowan County, North Carolina",  "col": "p16062coll35", "cdm":"35", "id":"coll061" }
+  ];
+  /* randomize items once at page load */
+  shuffle(items);
+
+  function filterItems(arr,q) {
+    // dont filter if no q 
+    if (q=="") { 
+      var filteredItems = arr; 
+    } else {
+      q = q.trim().toUpperCase(); 
+      // 3 filter options, filter, grep, loop...
+      // js filter
+      /*
+      var filteredItems = arr.filter(function (obj) { return Object.values(obj).join(" ").toUpperCase().includes(q);}); */
+      // jquery grep
+      /*
+      var filteredItems = jQuery.grep(arr, function(obj) { return Object.values(obj).join(" ").toUpperCase().includes(q);}); */
+      // (/keyword/i).test(source)
+      // js loop
+      /*
+      var filteredItems = [];
+      for (var i = 0, len = arr.length; i < len; i++) {
+        if(Object.values(arr[i]).join(" ").toUpperCase().includes(q)){
+          filteredItems.push(arr[i]);
+        }
+      }*/
+      // for compatible indexOf loop seems fastest
+      var filteredItems = [];
+      for (var i = 0, len = arr.length; i < len; i++) {
+        var val = "";
+        for (var k in arr[i]) { val += arr[i][k]; }
+        if(val.toUpperCase().indexOf(q) != -1){
+          filteredItems.push(arr[i]);
+        }
+      }
+    }
+    // add number 
+    $("#numberOf").html(filteredItems.length + " of 62 items");
+    
+    // add stuff, make cards first in giant var, then add all at once to speed things up
+    var cards = "";
+    for (var i = 0, len = filteredItems.length; i < len; i++) {
+      cards += makeCard(filteredItems[i]);
+    }
+    $("#browseItems").html(cards);
+
+    // finish
+    $("#goButton").focus();
+    $("#loading").hide();
+  };
+
+  var query = "";
+  /* filter if hash in initial URL */
+  if(window.location.hash) {
+    query = decodeURIComponent(location.hash.substr(1));
+    $('#quickSearch').val(query);
+    filterItems(items,query);
+  } else {
+    query = "";
+    filterItems(items,query);
+  }
+  /* add hash if search button clicked */ 
+  $('#goButton').click( function() {
+    window.location.hash = encodeURIComponent($('#quickSearch').val());
+  });
+  /* add hash if if enter is pressed */
+  $('#quickSearch').keypress(function(e){
+    if(e.which == 13){
+        window.location.hash = encodeURIComponent($('#quickSearch').val());
+      }
+  });
+  /* filter if hash changes */ 
+  $(window).on("hashchange", function() {
+    // show spinner
+    $("#loading").show();
+    // read hash
+    query = decodeURIComponent(location.hash.substr(1));
+    $('#quickSearch').val(query);
+    // filter
+    filterItems(items,query);
+  });
+
+  /* item array sorting function */
+  function sorting(json_object, key_to_sort_by) {
+      function sortByKey(a, b) {
+          var x = a[key_to_sort_by];
+          var y = b[key_to_sort_by];
+          if (typeof x === 'string' ) { x = x.toUpperCase(); }
+          if (typeof y === 'string' ) { y = y.toUpperCase(); }
+          return ((x==null) ? 1: (y==null) ? -1: (x < y) ? -1 : ((x > y) ? 1 : 0));
+      }
+
+      json_object.sort(sortByKey);
+  };
+
+  /* add sort function on click of sort options */
+  $(".browse-sort-item").click(function (event) {
+      var field = $(this).data('filter'); // Get the text of the element
+      var dname = $(this).text(); // Get the text of the element
+      var query = $('#quickSearch').val();
+      $(".browse-sort-item").removeClass('active');
+      $(this).addClass('active');
+      $('#sortfilter').text(dname);
+      if (field != 'random') {
+          sorting(items, field);
+          filterItems(items, query);
+      }
+      else {
+          shuffle(items);
+          filterItems(items, query);
+      }
+  }); 
+
+</script>
+
+
+
+
+
+
+
+    <script>
+    // When the user scrolls down from the top of the document, show the button
+    window.onscroll = function () {
+        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+            document.getElementById("scroll-to-top").style.display = "block";
+        } else {
+            document.getElementById("scroll-to-top").style.display = "none";
+        }
+    }
+    // scroll to top function
+    function scrollToTop() {
+        $('html, body').animate({scrollTop: 0}, 750);
+    }
+</script>
+<button id="scroll-to-top" type="button" class="btn btn-link btn-lg" onclick="scrollToTop();" title="Back to Top" aria-label="Back to Top">
+    <span class="fa fa-angle-double-up fa-stack-1x" ></span>
+</button>
+  </body>
+</html>
